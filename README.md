@@ -1,1 +1,1 @@
-# Social_net
+Social_net is a website created in django website. Its is used to bookmark images from other website ad share it among poeople. It has a follow system, activity system and also the image section. You dont have to download the image to the local machine to share the images.
